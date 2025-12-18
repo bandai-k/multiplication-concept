@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* 全体のベース */
+html,
+body {
+  height: 100%;
+  background-color: #ffffff;
+}
